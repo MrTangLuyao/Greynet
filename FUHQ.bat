@@ -3,31 +3,9 @@ color f0
 CLS
 cd C:\
 CLS
-echo FUHQ project by tangluyao
-echo 极致简洁  不忘初心  欢迎使用全新 FUHQ 1.0
-echo 版本号：1.0.401.211(原红蜘蛛杀手与弘桥网络助手）
+
 echo 杀手目标路径 在 此电脑的 C:\3000soft\Red Spider
-echo =========================以下是本次更新内容========================
-echo 1.极致简洁，不忘初心，欢迎使用全新 FUHQ 1.0
-echo 2.红蜘蛛杀手和网络助手迎来了合并。
-echo 3.优化使用体验使操作更符合直觉。
-echo 4.增加使用条款，需要接受后才可以使用。
-echo 5.网络助手优化执行速度，改善在Windows7中的体验，内核版本2.1。
-echo 6.全新64位内核让你用的更爽!
-echo =========================以下是历史更新内容========================
-echo v. new year version
-echo 1.happy new year!!!
-echo 2.许可证系统各个经销商相互独立
-echo 已知的bug（FUHQ1.0已解决):询问许可证的时候直接按enter会提示此时不应有goto,搞了一个小时也没搞定，有机会解决把。
-echo v.3.0
-echo 1.正式版发布，好耶！
-echo 2.许可证系统逻辑大改
-echo 3.增加开发者登录系统
-echo v.2.1BETA
-echo 1. 去除命令回显，界面更清爽
-echo 2. 开始测试购买许可证验证系统
-echo 3. 提示改为中文
-echo 4. 解决了2个bug，改善运行效率
+
 echo ============================软件开始运行=========================
 rem version introduction complete
 rem 2.1 set /p key=“请确认激活程序已经填写了正确的许可证号并且运行完成”
