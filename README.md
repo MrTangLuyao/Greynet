@@ -5,5 +5,8 @@ Dream! 是Nicktang在高中阶段写的一些来满足一些个人特殊需求�
 红蜘蛛杀手，可以在一瞬间干掉红蜘蛛网络教室，需要管理员权限,Batch编写
 ### dream! webtool
 webtool 更改网络dns解决机房限速问题，Batch编写
+### dream! FUHQ
+FUHQ 是webtool和redkiller的结合体 许可证为：当天的年月日乘以99+1 或者输入两次dev
+
 ### dream! Ucopy
 幻优拷，软件运行后会把U盘的所有文件拷贝的D盘的dream目录下，注意：U盘存储大小要小于D盘空间，Win7要管理员权限，Win10/11不需要，C++编写
