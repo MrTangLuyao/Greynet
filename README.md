@@ -1,4 +1,4 @@
-# Dream! Greynet是dream的开发编号
+# Dream! Greynet或dream项目
 Dream! 是Nicktang在高中阶段写的一些来满足一些个人特殊需求小程序
 ## 软件列表：
 
